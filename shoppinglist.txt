@@ -8,4 +8,4 @@ carrrot
 cereal
 cucumber
 radish
-walnut
+english walnut
