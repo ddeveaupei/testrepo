@@ -6,3 +6,5 @@ banaana
 cherry
 carrrot
 cereal
+cucumber
+radish
